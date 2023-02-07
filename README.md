@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlos, an <a href="https://www.linkedin.com/in/carlos-urquiza/">IT Professional</a>.</h1>
+<h1>Hi, I'm Carlos, an IT Professional.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -10,8 +10,4 @@
   - [Configuring On-premises Active Directory within Azure VMs](#)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](#)
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Carlos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-
-[linkedin]: https://www.linkedin.com/in/carlos-urquiza/
+<h2>🤳Connect with me on <a href="https://www.linkedin.com/in/carlos-urquiza/">LinkedIn</a></h2>
