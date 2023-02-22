@@ -2,6 +2,10 @@
 
 <h2>Information Technology Projects:</h2>
 
+- <b>Azure Resume Challenge</b>
+  - [Deployed website](https://www.carlosurquiza.com/)
+  - [Azure Resume Challenge Repository](https://github.com/cloudquiza/azure-resume)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cloudquiza/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/cloudquiza/post-install-config)
