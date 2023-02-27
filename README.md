@@ -1,10 +1,6 @@
-<h1>Hi, I'm Carlos, an IT Professional.</h1>
+<h1>Hi, I'm Carlos 👋 Check out some of my IT projects!</h1>
 
 <h2>Information Technology Projects:</h2>
-
-- <b>Azure Resume Challenge</b>
-  - [Deployed website](#)
-  - [Azure Resume Challenge Repository](#)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cloudquiza/osticket-prereqs)
