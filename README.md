@@ -1,7 +1,8 @@
 <h1>Cybersecurity and IT projects</h2>
 
 - <b>Security Audit</b>
-  - [Portfolio Activity: Conduct a security audit - Part 1](https://github.com/cloudquiza/security-audit-part-1)
+  - [Conduct a security audit - Part 1](https://github.com/cloudquiza/security-audit-part-1)
+  - [Conduct a security audit - Part 2](https://github.com/cloudquiza/security-audit-part-2)
 
 <h2>Connect with me</h2>
 
